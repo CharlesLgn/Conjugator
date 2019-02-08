@@ -8,7 +8,7 @@ Il est fait grâce au Framework Front JavaFX
 
 ***
 
-___Le but est de déveloper une application permetant :___
+___Le but est de déveloper une application permetant de :___
 
  -  Conjuger des verbes
  
