@@ -17,6 +17,10 @@ public class ServerImpl extends Observable implements ServerInterface {
   private ExpertCOR experCOR;
 
   public ServerImpl() {
+    new Thread(() -> {
+      while (true) setChanged();
+    }).start();
+
     hashMap = new HashMap<>();
     hashMap.put(0, "conjugueParticipePresent");
     hashMap.put(1, "conjugueParticipePasse");
