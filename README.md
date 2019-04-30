@@ -38,4 +38,4 @@ ___Le projet se découpe en 3 partie :___
  
 ***
 
-note obtenu  :   ![Challouatte Cyril](https://img.shields.io/badge/%3f-20-00A100.svg)
+note obtenu  :   ![Challouatte Cyril](https://img.shields.io/badge/18-20-00A100.svg)
